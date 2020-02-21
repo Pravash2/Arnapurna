@@ -1,0 +1,170 @@
+[
+  {
+    "zone": "Western Himalayas",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4-2-1", "N - P2O5 - K2O": "120-60-30" },
+      { "name": "Wheat", "n-p-k": "6-2-1", "N - P2O5 - K2O": "150-50-25" }
+    ]
+  },
+  {
+    "zone": "Uttarakhand",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4-2-1", "N - P2O5 - K2O": "120-60-30" },
+      { "name": "Wheat", "n-p-k": "5-2-0", "N - P2O5 - K2O": "150-60-0" }
+    ]
+  },
+  {
+    "zone": "Eastern Himalaya",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4-2-2", "N - P2O5 - K2O": "80-40-40" }
+    ]
+  },
+  {
+    "zone": "Lower Gangatic Alluvial",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4-2-2", "N - P2O5 - K2O": "80-40-40" }
+    ]
+  },
+  {
+    "zone": "Middle Gangetic",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4-2-2", "N - P2O5 - K2O": "120-60-60" },
+      { "name": "Wheat", "n-p-k": "4:2:1.3", "N - P2O5 - K2O": "120-60-40" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "4.5:1.5:1",
+        "N - P2O5 - K2O": "180-60-40"
+      }
+    ]
+  },
+  {
+    "zone": "Bihar",
+    "crops": [
+      { "name": "Rice", "n-p-k": "6-2-1", "N - P2O5 - K2O": "120-40-20" },
+      { "name": "Wheat", "n-p-k": "6-3-1", "N - P2O5 - K2O": "120-60-20" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "5:2.8:2",
+        "N - P2O5 - K2O": "150-85-60"
+      }
+    ]
+  },
+  {
+    "zone": "Upper Gangetic",
+    "crops": [
+      { "name": "Rice", "n-p-k": "5:2:2", "N - P2O5 - K2O": "150-60-60" },
+      { "name": "Wheat", "n-p-k": "5:2:2", "N - P2O5 - K2O": "150-60-60" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "5:2:2",
+        "N - P2O5 - K2O": "150-60-60"
+      },
+      {
+        "name": "Potato",
+        "n-p-k": "6:2:3",
+        "N - P2O5 - K2O": "180-60-90"
+      }
+    ]
+  },
+  {
+    "zone": "Haryana",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4:1:1", "N - P2O5 - K2O": "120-30-30" },
+      { "name": "Wheat", "n-p-k": "4:2:1", "N - P2O5 - K2O": "120-60-30" },
+      { "name": "Cotton", "n-p-k": "5:2:2", "N - P2O5 - K2O": "150-60-60" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "3:1:0",
+        "N - P2O5 - K2O": "150-50-0"
+      }
+    ]
+  },
+  {
+    "zone": "Chhatisgarh",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4:2:2", "N - P2O5 - K2O": "120-60-40" },
+      { "name": "Pulses", "n-p-k": "1:3:1", "N - P2O5 - K2O": "20-60-20" }
+    ]
+  },
+  {
+    "zone": "Jharkhand",
+    "crops": [
+      { "name": "Maize", "n-p-k": "4:2:1", "N - P2O5 - K2O": "80-40-20" },
+      { "name": "Wheat", "n-p-k": "5:2:1", "N - P2O5 - K2O": "100-40-20" }
+    ]
+  },
+  {
+    "zone": "Eastern Maharashtra",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4:2:1.3", "N - P2O5 - K2O": "120-60-40" },
+      { "name": "Wheat", "n-p-k": "5:2:1", "N - P2O5 - K2O": "100-40-20" }
+    ]
+  },
+  {
+    "zone": "Madhya Pradesh",
+    "crops": [
+      { "name": "Soybean", "n-p-k": "1:3:1", "N - P2O5 - K2O": "20-60-20" },
+      { "name": "Wheat", "n-p-k": "4:2:1.3", "N - P2O5 - K2O": "120-60-40" }
+    ]
+  },
+  {
+    "zone": "U.P",
+    "crops": [
+      { "name": "Wheat", "n-p-k": "4:3:1", "N - P2O5 - K2O": "80-60-20" }
+    ]
+  },
+  {
+    "zone": "Maharashtra",
+    "crops": [
+      { "name": "Sorghum", "n-p-k": "4:2:2", "N - P2O5 - K2O": "80-40-40" },
+      { "name": "Cotton", "n-p-k": "4:2:2", "N - P2O5 - K2O": "100-50-50" },
+      { "name": "Wheat", "n-p-k": "4:2:2", "N - P2O5 - K2O": "100-50-40" }
+    ]
+  },
+  {
+    "zone": "Andhra Pradesh",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4:2:2", "N - P2O5 - K2O": "100-60-60" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "0.9:0.8:1",
+        "N - P2O5 - K2O": "112-100-120"
+      },
+      { "name": "Cotton", "n-p-k": "4:2:2", "N - P2O5 - K2O": "120-60-60" },
+      { "name": "Sunflower", "n-p-k": "2:2:1", "N - P2O5 - K2O": "60-60-30" }
+    ]
+  },
+  {
+    "zone": "Karnataka",
+    "crops": [
+      { "name": "Rice", "n-p-k": "3:1.5:1", "N - P2O5 - K2O": "120-60-40" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "1.3:0.4:1",
+        "N - P2O5 - K2O": "250-75-190"
+      },
+      { "name": "Cotton", "n-p-k": "4:2:2", "N - P2O5 - K2O": "120-60-60" },
+      { "name": "Sunflower", "n-p-k": "4:6:4", "N - P2O5 - K2O": "35-50-35" }
+    ]
+  },
+  {
+    "zone": "Tamil Nadu",
+    "crops": [
+      { "name": "Rice", "n-p-k": "4:2:2", "N - P2O5 - K2O": "120-60-60" },
+      {
+        "name": "Sugarcane",
+        "n-p-k": "3.5:1:2",
+        "N - P2O5 - K2O": "225-60-120"
+      },
+      { "name": "Cotton", "n-p-k": "4:2:2", "N - P2O5 - K2O": "120-60-60" },
+      { "name": "Sunflower", "n-p-k": "4:6:4", "N - P2O5 - K2O": "60-90-60" }
+    ]
+  },
+  {
+    "zone": "Orissa",
+    "crops": [
+      { "name": "Rice(K)", "n-p-k": "4:2:2", "N - P2O5 - K2O": "80-40-40" },
+      { "name": "Rice(R)", "n-p-k": "5:2.5:2", "N - P2O5 - K2O": "100-50-40" }
+    ]
+  }
+]
